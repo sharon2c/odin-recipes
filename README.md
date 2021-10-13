@@ -1,0 +1,1 @@
+The current project creates recipes using HTML.
